@@ -1,5 +1,5 @@
-## Hi there 👋
-$$M^2Bio$$
+# $$M^2Bio$$
+
 <!--
 
 **Here are some ideas to get you started:**
